@@ -26,8 +26,6 @@ When someone determines that a question has been answered, they can respond like
 
 Once a question has been answered, the bot will flag the question as answered and update the document accordingly. The bot will also ping the Slack channel with a link to download the document, so that students will then be able to access the most up-to-date information from Slack about the assignment.
 
-See a video of the bot in action [here](https://drive.google.com/open?id=1eSxm5QZfF7H-puc8Tr_4ymE3QTyqjOwT)!
-
 ### CRC
 
 We made several classes:
