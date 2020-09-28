@@ -6,7 +6,7 @@ Our project for MCIT 591: Uses Slack API to automatically pull questions and ans
 
 ### Motivation
 
-Students in 591 have many sources of information about homework assignments, one source being Slack. In the days leading up to an assignment due date, there are often many questions in the 591 Slack channel attempting to clarify certain aspects of the assignment. These are often interspersed with general banter, and it can be cumbersome to identify all the questions that have been asked about an assignment, along with their answers. The goal of this program is to collect the questions in one place, to give students an easy way of seeing what questions have been asked and which of these have been answered. 
+Students in 591 have many sources of information for assignments, one source being Slack. In the days leading up to an assignment due date, there are often many questions in the 591 Slack channel attempting to clarify certain aspects of the assignment. These are often interspersed with general banter, and it can be cumbersome to identify all the questions that have been asked about an assignment, along with their answers. The goal of this program is to collect the questions in one place, to give students an easy way of seeing what questions have been asked and which of these have been answered. 
 
 ### Functionality
 
