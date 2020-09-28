@@ -2,7 +2,7 @@
 ### By Natalie Arellano & Mark Bender
 
 ### Overview
-Our project for MCIT 591: Uses Slack API to automatically pull questions and answers from Slack to update a single reference document for MCIT students.
+Our project for MCIT 591 uses the Slack API to automatically pull questions and answers from Slack to update a single reference document for MCIT students.
 
 ### Motivation
 
