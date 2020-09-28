@@ -1,4 +1,5 @@
 # Slack Q&A Compiler
+### By Natalie Arellano & Mark Bender
 
 A Slack bot that automatically updates a single reference document for MCIT students with questions and answers posted to Slack.
 
