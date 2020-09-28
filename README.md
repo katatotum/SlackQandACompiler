@@ -1,7 +1,8 @@
 # Slack Q&A Compiler
-### By Natalie Arellano & Mark Bender
+## By Natalie Arellano & Mark Bender
 
-A Slack bot that automatically updates a single reference document for MCIT students with questions and answers posted to Slack.
+### Overview
+Our project for MCIT 591: Uses Slack API to automatically pull questions and answers from Slack to update a single reference document for MCIT students.
 
 ### Motivation
 
